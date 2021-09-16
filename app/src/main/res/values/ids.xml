@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="cuantasPersonas" type="id" />
+    <item name="personas" type="id" />
+    <item name="fecha" type="id" />
+    <item name="hora" type="id" />
+    <item name="nombre" type="id" />
+    <item name="textView1" type="id" />
+    <item name="reserva" type="id" />
+</resources>
